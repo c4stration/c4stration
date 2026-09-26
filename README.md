@@ -1,3 +1,5 @@
+[English](README.md) | [日本語](README.jp.md)
+
 Hi, I'm Nubby. I'm a software and game developer.
 
 I have made several applications and games.
